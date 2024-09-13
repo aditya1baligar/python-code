@@ -1,0 +1,140 @@
+Future-ready Business Negotiations…
+
+AgileApt Solutions Private Limited
+
+Our Purpose:
+"Unlocking profits through a simplified eProcurement platform and value-added services."
+
+About Us
+
+Our Journey: Started in 2014, we are oneof the fastest growing companies in eProcurementspace with clients in India, Middle East and Africa with local presence in India and the USA.
+
+Simple and Effective: Our simplified solution is designed to enhance adoption through persona based user interfaces and outcome driven modules.
+
+Nurturing Trust: ProcurEngine augments trust between buyers and suppliers through transparency in the processes.
+
+Unmatched Support: We provide unmatched personalized technical, functional & strategic support to our clients.
+
+
+
+Key Modules & Features:
+Modular structure to select specific features. We provide, 
+
+1. Supplier Lifecycle Management : Digital on-boarding of new suppliers including evaluation, approval and supplier performance management, online bill acceptance.
+
+▪ Seamless onboarding
+
+▪ Real Time Updates
+
+▪ Effective Qualification
+
+▪ Supplier Verification
+
+▪ Efficient Categorization
+
+▪ Performance Management
+
+2. eSourcing: Negotiation suite for all types of procurement and scrap sales. Extremely easy to use RFI, RFQ, Reverse Auction and Forward auction.
+
+▪ Simple & User Friendly
+▪ Customization Options
+▪ Easy adoption
+▪ Workflow Based Approval
+▪ Performance Reports
+▪ Multiple Negotiation
+
+Components of eSourcing: The main components of eSourcing are as follows:
+Reverse & Forward e-Auctions(English, Japanese,French), Dynamic Counter Offer (Dutch), RFQ – Strategic Negotiations, Coal Auctions, Freight Auction.
+
+
+3. Note for Approval: eNFA
+Note for Approval with auto selection of approvers based on define Delegation/Schedule of Authority applicable for various purchase groups.
+
+▪ DOA/SOA Compliant
+▪ Reminders
+▪ Auto Forwarding
+▪ TAT Report
+▪ Stage-wise visibility
+▪ Single Sign On
+
+
+4. Audit Trail Enabled: Live data for any e-auction or transaction is readily available with timestamp and transparency in all aspect.
+
+▪ Efficient Search
+▪ Data Backup
+▪ Time Stamped Data
+▪ Data Repository
+
+
+5. Spend Analytics: Spend Analytics to slice and dice your purchases - with option to upload historical data - to formulate effective purchase strategies.
+
+▪ Savings Analysis
+▪ Performance Analysis
+▪ Event Analysis
+▪ Category Analysis
+▪ Cost Analysis
+▪ Supplier Analysis
+
+
+6. Supplier Portal: Exclusive personalized workspace for all your vendors with option to see past event participation details, upcoming events, bill submission, update record.
+
+▪ Event Notification
+▪ Payment Tracking
+▪ Invoice Submission
+▪ Event Reminders
+▪ Advance Shipment
+▪ Update Info Records
+
+
+Value-added Services: Host of support services to create awareness, facilitate tool adoption and make your procurement business-processes smooth to strengthen your supply chain teams.
+
+1. Consultancy and Advisory Services: Unearth the potential of effective negotiation strategies in a variety of situations through case study-based workshops….
+▪ Functional & Strategic
+▪ Compliance Awareness
+▪ Talent Development
+▪ Business Relevance
+▪ Value Creation
+▪ Effectiveness
+
+2. Solution Integration: Enable seamless data flow from your enterprise solutions to procurEngine and vice-versa using our secured rest APIs.
+▪ Restful APIs
+▪ With Core or peripheral
+▪ Only Relevant Fields
+▪ Both Sides
+▪ Multiple Options
+▪ Quick
+
+3. Dedicated Support: We provide dedicated support that helps you to be free from mundane activities so that you can focus be on the growth of your business.
+▪ Key Account Manager
+▪ Bid Configuration Support
+▪ Personalized Support
+▪ Supplier Training
+
+Our Clients' Domain:Manufacturing, EPC, Infra, Smart City, Bio-Based Technology, Speciality Films, Textiles, Real Estate, Automobiles, Renewable Energy.
+
+Unique Value Proposition: Designed to meet complexities of B2B negotiations & Shift buyers’ time from data entry to strategic thinking with a transparent process.
+Quick Implementation
+Intuitive and simple UI
+Post Implementation Support
+Extremely Secure
+Advisory and Consulting Services
+Quick configuration for events
+ERP Integration
+High ROI
+
+
+Contact us:
+India
+HEAD OFFICE
+AgileApt Solutions Pvt Ltd, B-821 Advant Navis Business Park
+Sector-142, Noida, Uttar Pradesh, 201301, India
+Office Contact Number : +91 7042259500
+
+USA
+HEAD OFFICE
+AgileApt Solutions Inc 8 The Green STE A
+Dover-19901 Delaware USA
+Office Contact Number : +1 737 341-9369
+
+Office Email : info@procurengine.com
+

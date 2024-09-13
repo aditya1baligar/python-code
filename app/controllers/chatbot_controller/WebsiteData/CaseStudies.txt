@@ -1,0 +1,48 @@
+Case Study 1: Increasing the market reach for commodity selling thro’ innovative auction on a win-win
+Problem Statement:
+One of the largest natural resources companies had identified through their research that for one of their commodities in India, there were 400 small buyers (by volume) who were not buying their requirement from the company and were meeting the requirement from the secondary market.
+Desire:
+To get these buyers to buy from the company directly through a fair process.
+Solution:
+We created an auction (Yankee) for the company whereby the company regularly started offering quantities (e.g., 2000 MT) at a floor price (minimum premium) with the quantities of the highest bidder (higher than floor price) being allocated first and similarly in the decreasing order of the bids. i.e., after allocating the quantity to H1 bidder, the quantity to H2 bidder was allocated and so on in a dynamic manner for the period of the bid (30 minutes extended by bid in the last minute by another 2 minutes).
+The solution is extremely easy to use (it being a KPI given a variety of small buyers participating in it) with easy-to-use UI/UX. The fields in the bidder’s screen are highly decluttered with the relative position indicated clearly and the field to submit the price.
+The notifications of the upcoming events (multi-channel), instructions for participation, etc. are extremely simple and broadcast facility makes it easy for the buyer to dynamically broadcast messages to the bidders for changes if any made in the bidding elements like a reduced decrement, etc.
+Outcome:
+Many (approx. 25-30%) of the unaddressed buyers started participating regularly and the company has been able to meet their requirements successfully in a win-win condition i.e. buyers getting the quality material, in time at better prices (compared to secondary market) and the company realizing better prices than the floor price.
+Future Plan:
+Encouraged by the above, the company has targeted to do 15% of the revenues through the platform.
+Case Study 2: To maximize the monetization of Export scrip
+Problem Statement
+We were approached by one of the largest staples exporters who were monetizing large value export scrips earned from their exports (70% of the revenues). Since they do not import anything (or very little), they had to monetize it in the open market at a discount. The Auditor wasn’t sure whether it was being monetized at a competitive value (and not leaving money on the table).
+Desire
+To monetize it through a fair process against competitive bids.
+Solution
+In consultation with the customer, we devised an auction for the customer whereby the scrips were auctioned through a forward auction methodology and the winner was selected based on the highest bid. The challenge was in configuring the fields to suit the use case wherein the unit bid is a discount to 100%, which was achieved by us after a few iterations.
+The solution had to be very simple and intuitive for the bidder to effortlessly participate in it and focus on the real-time competition. We created the fields in such a way that the logic was simplified to just put in the bid as a percentage.
+Outcome
+The customer has been using it for over a year now with significant improvement in the realization on the monetization of the scrips to the importers.
+Future Plan
+Encouraged by our ability to solve problems through a digital platform, the customer is now using it for many use cases in their business for multiple years now and is one of our biggest references on problem-solving through our platform.
+Case Study 3: Can you use SaaS platforms and integrate it to their multiple legacy ERP systems?
+Implementation of Digital Tools in Procurement
+It is a general tendency to start putting systems in place as organizations grow. It is a corollary of the said tendency to implement economical solutions and upgrade as more resources are available. In multiple units of the company, over time you end up having different systems and the obvious worry is whether the full potential of the SaaS tool can be exploited in such organizations with multiple ERP systems. A fair worry, I would say.
+Recent Approach
+We were recently approached by one such organization that is growing rapidly and wanted to implement a digital tool in procurement to automate the process, have an audit trail, and achieve savings on the spends, in addition to many other benefits which our platform ‘procurEngine’ provides.
+Implementation Process
+As a prudent implementation, the customer initially subscribed for standalone implementation and adoption. Given the “simple to use” & “outcome driven modules”, the adoption caught up in quick time (less than six months), and the customer approached us again to integrate the platform with their ERP system. An integration per se is not a complex implementation, though time and effort consuming to capture the business requirements and customizations necessary in respect of screens, etc. However, in this case, they had more than one ERP, with some parts of the organization using one and the balance using the other, with a plan to migrate to the newer (of the two) in due course.
+Integration and Outcome
+We designed the integration schematic to meet the above objective, and long story short, our platform is integrated with both ERPs, creating a single value-creating platform across the organization and generating value in the business seamlessly.
+Encouragement for Digital Adoption
+We encourage people to adopt digital tools which, fortunately, if designed well, can integrate with any core or peripheral ERPs and systems.
+Case Study 4: Does Roger’s Diffusion of Innovation theory play out in SaaS digital adoption ?
+Technology Adoption Case Study
+Where blue represents the groups of consumers adopting a new technology and yellow represents the market share, which obviously reaches 100% following complete adoption. The above depiction is from Roger’s theory.
+Customer Engagement
+One of our customers subscribed to our platform, you could say because of the innovator, as per the above chart in the organization. While the use case was being demonstrated by us to the sponsor, she saw merit in adopting it across the SCM value chain for its sheer effectiveness and simple to use UI/UX. However, there was little or no support from any of the other group members. Our attempts were generally met with the well-rehearsed tactic of asking for 1-2% change in functionalities and holding back 98-99% utility.
+Progress and Adoption
+Over time, the usage picked up in the function of the sponsor, and benefits started to grow month after month. By then, we had also complied with some of the minor changes requested by other category buyers. Suddenly, we saw an impressive jump in the number of users and events being conducted on the platform.
+Impact on the Organization
+We have been pleasantly surprised by the large-scale adoption (from a few thousand rupee items to many crores of rupee spend) across the organization and the increasing positive impact on the bottom lines.
+Conclusion
+We truly believe that this could be the case across most organizations, and we just need the minority innovators and early adopters to build momentum and create a large impact in the organizations. I hope the decision-makers are listening in the organizations and will experiment with the above.
+

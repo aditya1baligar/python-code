@@ -1,0 +1,68 @@
+ProcurEngine Overview
+
+Product Overview: procurEngine is an advanced e-Procurement platform built on latest technology. It is used by leading companies across Manufacturing, EPC, Energy, Consumables, Hospitals, Realty, Mining & Metals etc.
+
+ProcurEngine offers the following
+Broad functionalities:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Request for Information (e-RFI)
+e-RFI: Robust qualifying question building framework to send appropriate e-RFI for Technical and Execution Capabilities provision from the registered vendors.
+
+Request for Quotation (e-RFQ)
+The process starts from RFQ invite which has provision to invite quotations at BOM/BOQ level. It has provision for vendors to login and provide response. User can see summary reports based on received responses – with line wise lowest and highest prices in blue and red fonts, overall commercial ranking, technical or user acceptance etc.
+
+e-RFQ: This process is ideal in scenarios involving Techno-Commercial quotation with technical approval as a qualifying requirement for Commercial eligibility. It can be used for strategic negotiation with features for multiple versions of the quotation with automated advanced comparative statement enabling decision making. This is also used as a basis for Auction, as suitable, to get best commercial deals.
+
+Close Bid e-RFQ : In a close Bid e-RFQ, the techno commercial bid is not open for viewing or processing to the commercial team/technical team/Admin before the RFQ Due Date. The module has an additional field of Bid Opening Date, which can be after the RFQ Due Date. The due date can be extended from the dashboard if required. The dashboard also gives the offer submission status of each vendor. The technical approver can see the technical details similar to the standard e-RFQ, raise queries etc. The bid prices can be seen by the commercial team (and technical team, if prices are to be shown to the technical approver) only after the Bid Opening time.
+
+Reverse/Forward Auction (e-RA/FA)
+The process starts from Bid Configuration, after which an automatic email invite goes to selected participant with login credentials and how to participate manual. The participants login to participate in the bidding process. The system has provision of automatic and manual extension of bid time if the best prices are quoted at the last minute to provide fair opportunity to other participants. Once bidding is over, workflow-based approvals are automatically triggered for taking final approval on decisions. There are provisions to see status and participation summary reports during bid/after bid completion. The key features are:
+ Reverse Auction: Products (Capex, Opex, RM etc.), Services, Logistics (Air, Sea or Domestic Shipments), simplified English, Japanese and Dutch e-Auctions
+ Forward Auction: scrip sales, premium on commodities, asset disposal etc.
+ Unique λ-Factor for loading unequal bids: To load certain vendors with a factor in case they have offered different payment, delivery or Inco-terms. It can help also if new vendors are to be included in the auctions
+ Customize Auction: Each reverse auction can be customized for showing and hiding start price, showing L1 price, target price to all vendors, changing bid decrement during the running auction etc.
+
+Other Auctions: French Auction, Freight Auction, Coal Auction.
+
+Dashboards and Reports
+ProcurEngine comes with Built-In Dash Board giving:
+1) Pending activities – for each User
+2) Open bids and RFx
+3) Not forwarded for approval – Bids and RFx
+4) Under Approval – Bids and RFx
+5) Approved (Awarded) – Bids and RFx
+6) Standard Report – Bid Summary – Summary of all auctions completed with easy search and MS Excel and pdf download options with option to select time period/user or report type.
+7) Standard Report – RFQ – Summary of all RFQs Completed with easy search and MS Excel and pdf download options with option to select time period/user or report type.
+8) Customized Reports (Charged Extra) – In addition to above, customized reports can be created for monthly, quarterly or period to period to represent savings, quantum of negotiation done in the defined period etc. 
+
+Approval module: Electronic Note for Approval (eNFA) is an ideal replacement of different NFAs which users prepare for taking management approval as per organization’s Schedule of Authority or Delegation of Authority matrix. ProcurEngine eNFA module automates the entire approval process through a workflow-based process in a few easy steps – thus giving an error free approval process, which is fast, audit compliant and much more reliable.
+
+Other Key Features
+a) 100% Responsive product (Can be accessed using Mobile, Tablet, PC, Laptop)
+b) Mobile app for the Suppliers (ProcurEngine -Supplier)
+c) Cloud Based (hosted on MicrosoftAzureTM)
+d) 100% SOA /DOA compliant
+e) Whatsapp, SMS notifications (optional)
+f) Penny drop testing for Bank Account Verification (optional)
+g) GST validation thro’ Govt gateway.
+h) Restful APIs to integrate with ERP or any other solution.
+i) Many unique features to make e-Negotiations more effective like cloning, excel upload etc. 
+
+Add-on Modules
+Purchase Request (PR) creation: PR can be directly created in ProcurEngine with proper approval mechanism.
+Supplier Life Cycle Management
+∙ Vendor Qualification (VQ): Comprehensive VQ process through a custom-built form to seek information from prospective vendors to qualify them as an approved vendor.
+∙ Direct Registration of New Suppliers through your website link / QR Code
+∙ Quick Registration for the existing vendors – Register Participants
+
+Vendor Bill Tracker:
+procurEngine can be clubbed with Vendor Bill Tracker, which is a separately priced module. The vendor POs are uploaded in ProcurEngine along with agreed completion timelines. The vendors have to upload their invoice with agreed supporting documents. The uploaded invoice/s create alert to the user, who upon verification can run the approval cycle with the selected approvers. This gives complete traceability of the under-progress invoice with project-wise/ vendor-wise cost completion status. This option is under finalization. It can be activated within 8-12weeks of start of subscription, if selected. Please let us know, if you require offer. 
+
+Benefits of Cloud Based procurEngine
+Following are the key benefits of procurEngine
+1. Transition from traditional CAPEX to OPEX model.
+2. There is no need to hire hardware/software engineers to take care of cloud infrastructure & hosted application.
+3. Highly secure as the solution would be hosted on Microsoft Azure platform, which is managed by experts from Microsoft, with procurEngine website having SSL security.
+4. You can access it from anywhere, anytime using any internet connected device.
+5. You need only Internet connection and browser to access the application.
+
